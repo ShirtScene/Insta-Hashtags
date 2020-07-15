@@ -1,6 +1,24 @@
 {"data":[
+ {
+    "Type":"Fashion",
+    "SubType":"Fashion",
+    "Hashtag":"#fashion"
+}, {
+    "Type":"Fashion",
+    "SubType":"Fashion",
+    "Hashtag":"#style"
+},
   {
     "Type":"Fashion",
     "SubType":"Fashion",
-    "Hashtag":"#fashion"}
+    "Hashtag":"#love"
+},   {
+    "Type":"Fashion",
+    "SubType":"Fashion",
+    "Hashtag":"#instagood"
+}, { 
+    "Type":"Fashion",
+    "SubType":"Fashion",
+    "Hashtag":"#ootd"
+},
 ]}
